@@ -1,0 +1,12 @@
+[project]
+name = "football-intelligence-platform"
+version = "0.1.0"
+description = "A data-driven football intelligence platform for match prediction using multi-source football analytics."
+readme = "README.md"
+requires-python = ">=3.13"
+
+authors = [
+    { name = "Alborz", email = "abolfazlazizi344@gmail.com" }
+]
+
+dependencies = []
