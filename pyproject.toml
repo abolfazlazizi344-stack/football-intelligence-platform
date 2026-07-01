@@ -9,4 +9,7 @@ authors = [
     { name = "Alborz", email = "abolfazlazizi344@gmail.com" }
 ]
 
-dependencies = []
+dependencies = [
+    "pydantic-settings>=2.14.2",
+    "python-dotenv>=1.2.2",
+]
